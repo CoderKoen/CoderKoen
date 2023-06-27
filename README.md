@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderKoen
 - 👀 I’m interested in Space, Coding, and Math
-- 🌱 I’m currently learning Python And Javascript
+- 🌱 I’m currently learning Python,Javascript,Bash
 - 💞️ I’m looking to collaborate on Stuff
 
 <!---
