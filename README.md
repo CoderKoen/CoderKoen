@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderKoen
 - 👀 I’m interested in Coding, and Math
-- 🌱 I’m currently learning Python,Javascript,HTML,CSS, and C#
+- 🌱 I’m currently learning C++, C, and Rust
 - 🍏 I’m looking to collaborate on Stuff
 
 <!---
